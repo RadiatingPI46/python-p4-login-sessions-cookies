@@ -312,7 +312,7 @@ Before you move on, make sure you can answer the following questions:
         Flask sessions?</em>
   </summary>
 
-  <p><code>app.secret_key</code></p>
+  <p><code>app.secret_key</code></p> 
 </details>
 <br/>
 
